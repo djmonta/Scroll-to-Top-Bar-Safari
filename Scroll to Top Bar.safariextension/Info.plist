@@ -47,6 +47,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.githubusercontent.com/djmonta/Scroll-to-Top-Bar-Safari/master/update.plist</string>
 	<key>Website</key>
 	<string>https://github.com/djmonta/Scroll-to-Top-Bar-Safari</string>
 </dict>
