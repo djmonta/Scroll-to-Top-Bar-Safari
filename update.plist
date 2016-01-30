@@ -12,9 +12,9 @@
        <key>CFBundleVersion</key>
        <string>2</string>
        <key>CFBundleShortVersionString</key>
-       <string>1.1</string>
+       <string>1.2</string>
        <key>URL</key>
-       <string>http://ss-o.net/safari/extension/AutoPatchWork.safariextz</string>
+       <string>https://github.com/djmonta/Scroll-to-Top-Bar-Safari/blob/master/Scroll%20to%20Top%20Bar.safariextz</string>
      </dict>
    </array>
 </dict>
